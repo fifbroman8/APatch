@@ -18,7 +18,7 @@ The patching of Android kernel and Android system.
 - APatch relies on [KernelPatch](https://github.com/bmax121/KernelPatch/).
 - The source code for both APatch UI and APM has been copied and modified from [KernelSU](https://github.com/tiann/KernelSU).
 
-## Supported Versions
+## Supported VersionsA
 
 - ARM64 only
 - Android Kernel Version 3.18 - 6.1
